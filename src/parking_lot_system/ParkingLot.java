@@ -1,6 +1,6 @@
 package parking_lot_system;
 
-class ParkingLot {
+public class ParkingLot {
     private Vehicle[] slots;
     private double totalRevenue;
 

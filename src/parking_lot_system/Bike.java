@@ -1,6 +1,6 @@
 package parking_lot_system;
 
-class Bike extends Vehicle {
+public class Bike extends Vehicle {
     public Bike(String number, int hours) {
         super(number, "Bike", hours);
     }
